@@ -1,0 +1,3 @@
+There wasn't much of a difference between the two versions of count_sort. 
+I really tired to see if there was and they seemed about the same. 
+I actually think the library function qsort was faster after some testing too. 
